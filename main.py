@@ -3,8 +3,8 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 import requests
 
 # Мои ключи
-TOKEN = '8612337617:AAFdWwtwO2F9_MVcFkCABrehxxnYD3CrmwI'
-API_KEY = '1745410703b9c9fae0afe606d1bd5195'
+TOKEN = '-'
+API_KEY = '-'
 URL = 'https://api.openweathermap.org/data/2.5/weather'
 
 # Эмодзи для разной погоды
