@@ -9,7 +9,7 @@
 - Библиотека **pyTelegramBotAPI (telebot)** — для взаимодействия с Telegram
 - Библиотека **requests** — для запросов к OpenWeatherMap API
 - **OpenWeatherMap API** — источник данных о погоде
-
+ 
 ## Инструкция к запуску
 1. Установите зависимости
 ```
